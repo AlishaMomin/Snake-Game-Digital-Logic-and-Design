@@ -38,3 +38,8 @@ counters and finite state machines
 4. Hardware/Software debugging.   
 5. Interfacing of hardware components i.e. input/output peripherals with FPGA 
 6. Basic game development 
+## Group Members: 
+1. Alisha Momin
+2. Ayesha Zafar 
+3. Khizar Shahzad
+4. Zaki Majid
