@@ -26,3 +26,15 @@ See Tutorial Videos on implementation of Verilog modules on FPGA boards.
 You are required to have at least one input peripheral like switches, 
 keyboard, mouse, joystick etc. in your digital system with which you ‘ll control movement 
 of paddle in ping pong game. This will be your design choice.  
+![dld](https://user-images.githubusercontent.com/60126292/150653000-085fc68d-5140-4e51-b239-ef2885a85b80.PNG)
+## PROBLEM GOALS:   
+The purpose of this project is to help you obtain necessary skills to develop a hardware-software 
+product-oriented  project.  In  particular,  you will  acquire  the following  skillset  after completing 
+this project:  
+1. Programming digital logic on FPGA. 
+2. Design of logic modules involving comparators, multiplexers, encoders, decoders, 
+counters and finite state machines 
+3. Hardware/Software interfacing.   
+4. Hardware/Software debugging.   
+5. Interfacing of hardware components i.e. input/output peripherals with FPGA 
+6. Basic game development 
